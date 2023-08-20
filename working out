@@ -18,7 +18,7 @@ contract StudentRegister{
     mapping (address=>student)students;
     
     /**
-     * @dev assigning the contract deployer as the owner
+     * @dev assigning the contract deployer as    the only  owner
      */
     constructor() public {
         owner=msg.sender;
