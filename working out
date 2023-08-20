@@ -77,7 +77,7 @@ contract StudentRegister{
     }
     
     /**
-     * @notice function to get the details of a student when studentId is given
+     * @notice the function to get the details of a student when studentId is given
      */
             
     function getStudentDetails(address studentId) public view returns (address,string memory,string memory,uint256,uint256){
