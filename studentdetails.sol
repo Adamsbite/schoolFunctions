@@ -22,6 +22,7 @@ mapping(address => studentDetail) public sDetails;
 
  constructor () {
      admin = msg.sender;
+
  }
 
  modifier onlyadmin(){
