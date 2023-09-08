@@ -1,5 +1,3 @@
-
-
 // I'm a comment!
 // SPDX-License-Identifier: MIT
 
