@@ -2,7 +2,7 @@
 pragma solidity ^0.8.1;
 contract RedoTask{
 
-struct studentDetail  {
+struct studentDetail  { 
     string name;
     string class;
     uint age;
