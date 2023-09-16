@@ -8,7 +8,6 @@ struct studentDetail  {
     uint age;
     uint favNum;
 }
-
 address public admin;
 // create more than 1 admin
 // allow only owner to add and remove admin 
