@@ -9,7 +9,7 @@ contract StudentRegister{
 /**
  * @dev owner is a state variable
  */
-    address public owner;
+    address public owner; 
   
   /**
    * @dev mapping address as key to struct student with mapping name students
