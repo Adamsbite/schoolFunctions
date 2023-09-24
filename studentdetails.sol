@@ -6,7 +6,7 @@ struct studentDetail  {
     string name;
     string class;
     uint age;
-    uint favNum;
+    uint favNum; 
 }
 address public admin;
 // create more than 1 admin
