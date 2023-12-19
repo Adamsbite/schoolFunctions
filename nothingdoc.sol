@@ -7,7 +7,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract BiteNft is ERC721URIStorage, Ownable {
     constructor() ERC721("BITE", "B") {}  
 
-    function mint(
+    function mint( 
         address _to,
         uint _tokenId,
         string calldata _uri
