@@ -18,5 +18,5 @@ contract menty {
          uint mendy = 44;
          uint adddd = age + mendy;
          return adddd;
-     }
+     }  
 }
