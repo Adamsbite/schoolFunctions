@@ -4,7 +4,7 @@ pragma solidity >=0.4.0<=0.6.0;
  * @title StudentRegister
  * @notice StudentRegister contract is a contract to register the marks of a student and calculates his percentage
 */
-contract StudentRegister{ 
+contract StudentRegister{  
 
 /**
  * @dev owner is a state variable
