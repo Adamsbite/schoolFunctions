@@ -1,7 +1,7 @@
 pragma solidity >=0.4.0<=0.6.0;
 
 /**
- * @title StudentRegister
+ * @title StudentRegister 
  * @notice StudentRegister contract is a contract to register the marks of a student and calculates his percentage
 */
 contract StudentRegister{  
